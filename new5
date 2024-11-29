@@ -1,0 +1,22 @@
+bagalar = []
+y = 0
+z = 0
+while True:
+    x = input("baganin engiz")
+    if x == "stop":
+        break
+    else:
+        y = y + int(x)
+        print()
+        bagalar.append(int(x))
+        z = z +1
+        print("bagalar massiv:", bagalar)
+        print("bagalar kosindisi: ", y)
+        print("massiv ishindegi baga sani: ", z)
+        arm = y / z
+        print(arm)
+        M1 = 75
+        M2 = 85
+        print(( M1 + M2)*0.2)
+        R1 = 
+        print(bagalar)
