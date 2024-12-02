@@ -1,0 +1,91 @@
+# def chek_number(num):
+#     if num > 0:
+#         return "On san"
+#     elif num < 0:
+#         return "San teris"
+#     else:
+#         return "san nolge ten"
+#     nomber = float(input("sandi engizu: "))
+#     print(check_number(number))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+#
+# #
+# import getpass
+# def get_username_alternative():
+#     username = getpass.getuser()
+#     return username
+# print(f"paidalanushi ati: {get_username_alternative()}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+# import math
+# def calculate_distance(x1, y1, x2, y2):
+#     distance = math.sqrt ((x2 - x1))
+#     return distance
+# try:
+#     x1 = float(input("birinshi tochka: "))
+#     y1 = float(input("koordinatasi: "))
+#     x2 = float(input("ekinshi: "))
+#     y2 = float(input("ekinshi nukte: "))
+#     result = calculate_distance(x1, y1, x2, y2)
+#     print(f"eki nukte: ")
+# except ValueError:
+#     print("koordinat engizu")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    n = int(input("nesheu shgaru: "))
+    z = 0
+    a = 0
+    b = 1
+    while True:
+       z = z+1:
+       print(a)
+       print(b)
+       if z==n
+           break
+       a=b
+       
