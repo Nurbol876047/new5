@@ -1,0 +1,54 @@
+# def qosyndysy (massiv):
+#     for x in massiv:
+#         y=0
+#         x= y+x
+#         return x
+#
+# student_marks = {"Аян": [100,80,100], "Жанар": [80,80,60], "Руслан": [60,100,80]}
+# for name, grades in student_marks.items():
+#     x = sum(grades)/len(grades)
+#     if x >80:
+#         print(name, x)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# def qosu (a,b):
+#     c = a+b
+#     return c
+# def azaitu (a,b):
+#     c = a-b
+#     return c
+# def kobeitu (a,b):
+#     c = a*b
+#     return c
+# def bolu (a,b):
+#     c = a/b
+#     return c
+# amal = input("amaldi engizu: ")
+# 
+# if amal == "+":
+#     qosu(san1,san2)
+# elif amal == "-":
+#     azaitu(san1,san2)
+# elif amal == "*":
+#     kobeitu(san1,san2)
+# elif amal == "/":
+#     bolu(san1,san2)
+# san1 = int(input("birinshi san: "))
+# san2 = int(input("ekinshi san: "))
+# print(qosu(san1,san2))
+# print(azaitu(san1,san2))
+# print(kobeitu(san1,san2))
+# print(bolu(san1,san2))
